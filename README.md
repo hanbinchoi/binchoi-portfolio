@@ -24,8 +24,6 @@
 
 ## archiving
 
-기록한 내용 기입
-
 - github
 - velog
 
